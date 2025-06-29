@@ -1,0 +1,4 @@
+transformers==4.40.1
+torch>=2.0.0
+gradio==4.24.0
+PyMuPDF==1.23.22
